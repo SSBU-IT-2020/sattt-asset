@@ -1,0 +1,739 @@
+{
+  "Chin": {
+    "districtData": {
+      "Falam": {
+        "monastery": 0,
+        "totalSangha": 31
+      },
+      "Hakha": {
+        "monastery": 0,
+        "totalSangha": 5
+      },
+      "Mindat": {
+        "monastery": 0,
+        "totalSangha": 26
+      },
+      "Matupi": {
+        "monastery": 0,
+        "totalSangha": 2
+      }
+    },
+    "stateCode": "MM-14"
+  },
+  "Yangon": {
+    "districtData": {
+      "Yangon (North)": {
+        "monastery": 132,
+        "totalSangha": 9207
+      },
+      "Yangon (East)": {
+        "monastery": 502,
+        "totalSangha": 14656
+      },
+      "Yangon (West)": {
+        "monastery": 260,
+        "totalSangha": 10473
+      },
+      "Yangon (South)": {
+        "monastery": 23,
+        "totalSangha": 3814
+      },
+      "Unknown": {
+        "monastery": 0,
+        "totalSangha": 19
+      }
+    },
+    "stateCode": "MM-06"
+  },
+  "Mandalay": {
+    "districtData": {
+      "Mandalay": {
+        "monastery": 17,
+        "totalSangha": 1117
+      },
+      "Pyinoolwin": {
+        "monastery": 1,
+        "totalSangha": 37
+      },
+      "Myingyan": {
+        "monastery": 48,
+        "totalSangha": 158
+      },
+      "Meiktila": {
+        "monastery": 10,
+        "totalSangha": 161
+      },
+      "Yamethin": {
+        "monastery": 1,
+        "totalSangha": 86,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Nyaung-U": {
+        "monastery": 0,
+        "totalSangha": 111,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 7,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Kyaukse": {
+        "monastery": 0,
+        "totalSangha": 38,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 5,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    },
+    "stateCode": "MM-04"
+  },
+  "Nay Pyi Taw": {
+    "districtData": {
+      "Det Khi Na": {
+        "monastery": 13,
+        "totalSangha": 221,
+        "deceased": 0,
+        "recovered": 2,
+        "delta": {
+          "totalSangha": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Oke Ta Ra": {
+        "monastery": 5,
+        "totalSangha": 65,
+        "deceased": 0,
+        "recovered": 2,
+        "delta": {
+          "totalSangha": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    },
+    "stateCode": "MM-18"
+  },
+  "Shan": {
+    "districtData": {
+      "Kyaukme": {
+        "monastery": 0,
+        "totalSangha": 15,
+        "deceased": 0,
+        "recovered": 1,
+        "delta": {
+          "totalSangha": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Taunggyi": {
+        "monastery": 3,
+        "totalSangha": 68,
+        "deceased": 0,
+        "recovered": 5,
+        "delta": {
+          "totalSangha": 7,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Tachileik": {
+        "monastery": 0,
+        "totalSangha": 3,
+        "deceased": 0,
+        "recovered": 3,
+        "delta": {
+          "totalSangha": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Muse": {
+        "monastery": 0,
+        "totalSangha": 16,
+        "deceased": 0,
+        "recovered": 2,
+        "delta": {
+          "totalSangha": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Loilen": {
+        "monastery": 1,
+        "totalSangha": 4,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Kengtung": {
+        "monastery": 3,
+        "totalSangha": 7,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Lashio": {
+        "monastery": 1,
+        "totalSangha": 4,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Monghsat": {
+        "monastery": 0,
+        "totalSangha": 3,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    },
+    "stateCode": "MM-17"
+  },
+  "Bago": {
+    "districtData": {
+      "Pyay": {
+        "monastery": 0,
+        "totalSangha": 222,
+        "deceased": 1,
+        "recovered": 7,
+        "delta": {
+          "totalSangha": 19,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Bago": {
+        "monastery": 21,
+        "totalSangha": 1055,
+        "deceased": 0,
+        "recovered": 29,
+        "delta": {
+          "totalSangha": 20,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Taungoo": {
+        "monastery": 0,
+        "totalSangha": 382,
+        "deceased": 0,
+        "recovered": 1,
+        "delta": {
+          "totalSangha": 3,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Thayarwady": {
+        "monastery": 1,
+        "totalSangha": 864,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 21,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    },
+    "stateCode": "MM-02"
+  },
+  "Mon": {
+    "districtData": {
+      "Mawlamyine": {
+        "monastery": 19,
+        "totalSangha": 417,
+        "deceased": 1,
+        "recovered": 6,
+        "delta": {
+          "totalSangha": 3,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Thaton": {
+        "monastery": 4,
+        "totalSangha": 230,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 2,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    },
+    "stateCode": "MM-15"
+  },
+  "Magway": {
+    "districtData": {
+      "Magway": {
+        "monastery": 2,
+        "totalSangha": 384,
+        "deceased": 0,
+        "recovered": 3,
+        "delta": {
+          "totalSangha": 30,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Thayet": {
+        "monastery": 1,
+        "totalSangha": 124,
+        "deceased": 0,
+        "recovered": 1,
+        "delta": {
+          "totalSangha": 7,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Pakokku": {
+        "monastery": 1,
+        "totalSangha": 36,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 2,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Gangaw": {
+        "monastery": 0,
+        "totalSangha": 10,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Minbu": {
+        "monastery": 0,
+        "totalSangha": 116,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 32,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    },
+    "stateCode": "MM-03"
+  },
+  "Sagaing": {
+    "districtData": {
+      "Kale": {
+        "monastery": 1,
+        "totalSangha": 78,
+        "deceased": 0,
+        "recovered": 6,
+        "delta": {
+          "totalSangha": 7,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Sagaing": {
+        "monastery": 1,
+        "totalSangha": 27,
+        "deceased": 0,
+        "recovered": 3,
+        "delta": {
+          "totalSangha": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Mawlaik": {
+        "monastery": 0,
+        "totalSangha": 4,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Kawlin": {
+        "monastery": 0,
+        "totalSangha": 7,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Katha": {
+        "monastery": 0,
+        "totalSangha": 8,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Shwebo": {
+        "monastery": 0,
+        "totalSangha": 92,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Monywa": {
+        "monastery": 0,
+        "totalSangha": 62,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 2,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Hkamti": {
+        "monastery": 0,
+        "totalSangha": 2,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Yinmarbin": {
+        "monastery": 0,
+        "totalSangha": 58,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Kanbalu": {
+        "monastery": 0,
+        "totalSangha": 10,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Tamu": {
+        "monastery": 0,
+        "totalSangha": 10,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    },
+    "stateCode": "MM-01"
+  },
+  "Kachin": {
+    "districtData": {
+      "Mohnyin": {
+        "monastery": 1,
+        "totalSangha": 112,
+        "deceased": 0,
+        "recovered": 1,
+        "delta": {
+          "totalSangha": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Bhamo": {
+        "monastery": 0,
+        "totalSangha": 5,
+        "deceased": 0,
+        "recovered": 3,
+        "delta": {
+          "totalSangha": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Myitkyina": {
+        "monastery": 1,
+        "totalSangha": 18,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Puta-O": {
+        "monastery": 0,
+        "totalSangha": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    },
+    "stateCode": "MM-11"
+  },
+  "Tanintharyi": {
+    "districtData": {
+      "Myeik": {
+        "monastery": 0,
+        "totalSangha": 73,
+        "deceased": 0,
+        "recovered": 1,
+        "delta": {
+          "totalSangha": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Kawthoung": {
+        "monastery": 0,
+        "totalSangha": 13,
+        "deceased": 0,
+        "recovered": 4,
+        "delta": {
+          "totalSangha": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Dawei": {
+        "monastery": 1,
+        "totalSangha": 88,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    },
+    "stateCode": "MM-05"
+  },
+  "Kayin": {
+    "districtData": {
+      "Kawkareik": {
+        "monastery": 1,
+        "totalSangha": 44,
+        "deceased": 0,
+        "recovered": 3,
+        "delta": {
+          "totalSangha": 3,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Hpa-An": {
+        "monastery": 2,
+        "totalSangha": 199,
+        "deceased": 0,
+        "recovered": 24,
+        "delta": {
+          "totalSangha": 57,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Myawaddy": {
+        "monastery": 0,
+        "totalSangha": 69,
+        "deceased": 0,
+        "recovered": 2,
+        "delta": {
+          "totalSangha": 3,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    },
+    "stateCode": "MM-13"
+  },
+  "Rakhine": {
+    "districtData": {
+      "Thandwe": {
+        "monastery": 3,
+        "totalSangha": 65,
+        "deceased": 0,
+        "recovered": 16,
+        "delta": {
+          "totalSangha": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Maungdaw": {
+        "monastery": 6,
+        "totalSangha": 391,
+        "deceased": 0,
+        "recovered": 37,
+        "delta": {
+          "totalSangha": 4,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Sittwe": {
+        "monastery": 149,
+        "totalSangha": 1472
+      },
+      "Mrauk-U": {
+        "monastery": 40,
+        "totalSangha": 508,
+        "deceased": 0,
+        "recovered": 56
+      },
+      "Kyaukpyu": {
+        "monastery": 37,
+        "totalSangha": 391,
+        "deceased": 0,
+        "recovered": 63
+      }
+    },
+    "stateCode": "MM-16"
+  },
+  "Ayeyarwady": {
+    "districtData": {
+      "Pathein": {
+        "monastery": 4,
+        "totalSangha": 242,
+        "deceased": 0,
+        "recovered": 2,
+        "delta": {
+          "totalSangha": 3,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Hinthada": {
+        "monastery": 2,
+        "totalSangha": 106,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 2,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Pyapon": {
+        "monastery": 7,
+        "totalSangha": 219,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 6,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Myaungmya": {
+        "monastery": 2,
+        "totalSangha": 70,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Maubin": {
+        "monastery": 3,
+        "totalSangha": 368,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 4,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Labutta": {
+        "monastery": 0,
+        "totalSangha": 69,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 9,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    },
+    "stateCode": "MM-07"
+  },
+  "Kayah": {
+    "districtData": {
+      "Loikaw": {
+        "monastery": 0,
+        "totalSangha": 4,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "totalSangha": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    },
+    "stateCode": "MM-12"
+  }
+}
