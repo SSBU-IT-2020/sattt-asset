@@ -1,0 +1,116 @@
+{
+  "stateWise": [
+    {
+      "_id": 0,
+      "monastery": 1330,
+      "totalSangha": 49072,
+      "state": "Total",
+      "stateCode": "TT"
+    },
+    {
+      "_id": 1,
+      "monastery": 2,
+      "totalSangha": 358,
+      "state": "Sagaing",
+      "stateCode": "MM-01"
+    },
+    {
+      "_id": 2,
+      "monastery": 22,
+      "totalSangha": 2523,
+      "state": "Bago",
+      "stateCode": "MM-02"
+    },
+    {
+      "_id": 3,
+      "monastery": 4,
+      "totalSangha": 670,
+      "state": "Magway",
+      "stateCode": "MM-03"
+    },
+    {
+      "_id": 4,
+      "monastery": 77,
+      "totalSangha": 1708,
+      "state": "Mandalay",
+      "stateCode": "MM-04"
+    },
+    {
+      "_id": 5,
+      "monastery": 1,
+      "totalSangha": 174,
+      "state": "Tanintharyi",
+      "stateCode": "MM-05"
+    },
+    {
+      "_id": 6,
+      "monastery": 917,
+      "totalSangha": 38167,
+      "state": "Yangon",
+      "stateCode": "MM-06"
+    },
+    {
+      "_id": 7,
+      "monastery": 18,
+      "totalSangha": 1074,
+      "state": "Ayeyarwady",
+      "stateCode": "MM-07"
+    },
+    {
+      "_id": 8,
+      "monastery": 2,
+      "totalSangha": 136,
+      "state": "Kachin",
+      "stateCode": "MM-11"
+    },
+    {
+      "_id": 9,
+      "monastery": 0,
+      "totalSangha": 4,
+      "state": "Kayah",
+      "stateCode": "MM-12"
+    },
+    {
+      "_id": 10,
+      "monastery": 3,
+      "totalSangha": 312,
+      "state": "Kayin",
+      "stateCode": "MM-13"
+    },
+    {
+      "_id": 11,
+      "monastery": 0,
+      "totalSangha": 64,
+      "state": "Chin",
+      "stateCode": "MM-14"
+    },
+    {
+      "_id": 12,
+      "monastery": 23,
+      "totalSangha": 647,
+      "state": "Mon",
+      "stateCode": "MM-15"
+    },
+    {
+      "_id": 13,
+      "monastery": 235,
+      "totalSangha": 2827,
+      "state": "Rakhine",
+      "stateCode": "MM-16"
+    },
+    {
+      "_id": 14,
+      "monastery": 8,
+      "totalSangha": 120,
+      "state": "Shan",
+      "stateCode": "MM-17"
+    },
+    {
+      "_id": 15,
+      "monastery": 18,
+      "totalSangha": 286,
+      "state": "Nay Pyi Taw",
+      "stateCode": "MM-18"
+    }
+  ]
+}
